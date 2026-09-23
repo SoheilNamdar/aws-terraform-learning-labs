@@ -52,6 +52,37 @@ Folder:
 
 `lab2-variables-locals-outputs/`
 
+---
+
+### Lab 3 — VPC Networking
+
+Topics covered:
+
+- Public and private subnets
+- Internet gateway
+- Public and private route tables
+- NAT gateway
+
+Folder:
+
+`lab3-vpc-networking/`
+
+---
+
+### Lab 4 — EC2 in a Subnet
+
+Topics covered:
+
+- Creating an EC2 instance
+- Placing an instance in a subnet
+- Security groups
+- Public IP assignment
+- Terraform resource dependencies
+
+Folder:
+
+`lab4-ec2-in-subnet/`
+
 ## Workflow
 
 Typical lab workflow:
