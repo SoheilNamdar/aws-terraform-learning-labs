@@ -83,6 +83,22 @@ Folder:
 
 `lab4-ec2-in-subnet/`
 
+---
+
+### Lab 5 — Terraform Modules
+
+Topics covered:
+
+- Creating and calling a local Terraform module
+- Defining module input variables
+- Exposing module outputs
+- Passing resource attributes between the root module and a child module
+- Deploying the modular configuration against LocalStack
+
+Folder:
+
+`lab5-terraform-modules/`
+
 ## Workflow
 
 Typical lab workflow:
