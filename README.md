@@ -99,6 +99,36 @@ Folder:
 
 `lab5-terraform-modules/`
 
+---
+
+### Lab 6 — IAM Role for EC2
+
+Topics covered:
+
+- IAM trust and permissions policies
+- IAM roles and instance profiles
+- Attaching an IAM role to an EC2 instance
+
+Folder:
+
+`lab6-iam-ec2/`
+
+---
+
+### Lab 7 — Application Load Balancer and Auto Scaling Group
+
+Topics covered:
+
+- Application Load Balancers
+- Target groups and listeners
+- EC2 launch templates
+- Auto Scaling Groups across multiple subnets
+- Connecting an ASG to an ALB target group
+
+Folder:
+
+`lab7-alb-autoscaling/`
+
 ## Workflow
 
 Typical lab workflow:
