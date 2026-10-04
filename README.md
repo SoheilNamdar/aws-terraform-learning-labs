@@ -129,6 +129,23 @@ Folder:
 
 `lab7-alb-autoscaling/`
 
+---
+
+### Lab 8 — RDS MySQL Database
+
+Topics covered:
+
+- Creating private database subnets in multiple Availability Zones
+- Creating an RDS DB subnet group
+- Restricting MySQL access with security-group references
+- Provisioning a private MySQL RDS instance
+- Configuring database settings with Terraform variables
+- Exposing the database endpoint with a Terraform output
+
+Folder:
+
+`lab8-rds/`
+
 ## Workflow
 
 Typical lab workflow:
@@ -142,3 +159,4 @@ terraform plan
 terraform apply
 terraform destroy
 docker compose down
+```
