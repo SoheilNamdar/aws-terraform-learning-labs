@@ -34,7 +34,7 @@ Terraform.
 ## Project structure
 
 ```text
-lab9-s3/
+lab09-s3/
 ├── README.md
 └── main.tf
 ```

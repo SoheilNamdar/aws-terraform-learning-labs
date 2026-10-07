@@ -27,7 +27,7 @@ Topics covered:
 
 Folder:
 
-`lab1-localstack-s3/`
+`lab01-localstack-s3/`
 
 ---
 
@@ -50,7 +50,7 @@ Topics covered:
 
 Folder:
 
-`lab2-variables-locals-outputs/`
+`lab02-variables-locals-outputs/`
 
 ---
 
@@ -65,7 +65,7 @@ Topics covered:
 
 Folder:
 
-`lab3-vpc-networking/`
+`lab03-vpc-networking/`
 
 ---
 
@@ -81,7 +81,7 @@ Topics covered:
 
 Folder:
 
-`lab4-ec2-in-subnet/`
+`lab04-ec2-in-subnet/`
 
 ---
 
@@ -97,7 +97,7 @@ Topics covered:
 
 Folder:
 
-`lab5-terraform-modules/`
+`lab05-terraform-modules/`
 
 ---
 
@@ -111,7 +111,7 @@ Topics covered:
 
 Folder:
 
-`lab6-iam-ec2/`
+`lab06-iam-ec2/`
 
 ---
 
@@ -127,7 +127,7 @@ Topics covered:
 
 Folder:
 
-`lab7-alb-autoscaling/`
+`lab07-alb-autoscaling/`
 
 ---
 
@@ -144,7 +144,7 @@ Topics covered:
 
 Folder:
 
-`lab8-rds/`
+`lab08-rds/`
 
 ## Workflow
 

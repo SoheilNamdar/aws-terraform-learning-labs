@@ -38,7 +38,7 @@ policy defines which AWS actions the instance is allowed to perform.
 ## Project structure
 
 ```text
-lab6-iam-ec2/
+lab06-iam-ec2/
 ├── docker-compose.yaml
 ├── README.md
 ├── main.tf          # Added during the lab
